@@ -1,3 +1,15 @@
+// Personal GitHub icon yellow background
+.profile-github-personal {
+  background: #ffe066;
+  border-radius: 50%;
+  padding: 0.3em;
+  display: inline-block;
+}
+// Profile image zoom effect
+.profile-zoom {
+  transform: scale(1);
+  transition: transform 0.3s ease;
+}
 // 
 // Global
 // 
