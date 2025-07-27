@@ -10826,10 +10826,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.resume-section-content p {
-  text-align: justify;
-}
-
 .profile-github-personal {
   background: #ffe066;
   border-radius: 50%;
